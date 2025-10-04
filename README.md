@@ -1,2 +1,3 @@
 # toy_ds_project
-"project creation date: October 4th 2025"
+Project creation date: October 4th 2025
+author: Ryan De La Torre
